@@ -9,7 +9,7 @@
 
 ## 🤔 › Sobre o Naoki
 
-Naoki é um robô do Discord multiuso com as funções mais necessárias e essenciais para seu servidor!<br>
+Naoki é um bot do Discord multiuso com as funções mais necessárias e essenciais para seu servidor!<br>
 O código do Naoki foi escrito em JavaScript com [**Node.js**](https://nodejs.org/), utilizando a biblioteca [**Discord.js**](https://discord.js.org/).
 
 ## 🔗 › Adicionar o Naoki
